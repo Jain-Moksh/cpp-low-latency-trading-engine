@@ -96,11 +96,6 @@ You are free to:
 - Modify and adapt the code
 - Share and distribute the code
 
-**Conditions**:
-- You must give appropriate credit to the original author (link to this github is enough.)
-- You may not present this work as entirely your own
-- If you modify the code, clearly indicate your changes
-
 This project is shared in the spirit of open collaboration and learning. Respect for the original work is the only requirement.
 
 
