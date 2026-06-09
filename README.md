@@ -1,9 +1,10 @@
-Low-Latency Trading Systems Framework
+# Low-Latency Trading Systems Framework
+
+Developed and maintained by **Moksh Jain** (GitHub: [@Jain-Moksh](https://github.com/Jain-Moksh), Email: [mokshjaindev@gmail.com](mailto:mokshjaindev@gmail.com)).
 
 ## Overview
 
-This is my approach for a high-performance, production-grade C++ framework for building ultra-low-latency trading systems, used for quantitative finance and systems programming. My focus was on highly efficient and especially clean code.
-I saw this project as a challenge, trying to push as hard as I can, seeing what I can get done if I give it my all.
+This is a high-performance, production-grade C++ framework for building ultra-low-latency trading systems, designed for quantitative finance and systems programming. The focus is on highly efficient, clean, and cache-friendly code.
 
 ## Key Features
 
@@ -50,6 +51,13 @@ I saw this project as a challenge, trying to push as hard as I can, seeing what 
 
 ## Getting Started
 
+### Clone the Repository
+
+```bash
+git clone https://github.com/Jain-Moksh/cpp-low-latency-trading-engine.git
+cd cpp-low-latency-trading-engine
+```
+
 ### Prerequisites
 - CMake (3.20+)
 - Modern C++ Compiler (GCC 10+/Clang 10+/MSVC 19.2+)
@@ -85,17 +93,23 @@ Each line of code is crafted to minimize computational overhead and maximize thr
 - High-Performance Financial Simulations
 - Anything where you think that speed is key
 
+## Author
+
+**Moksh Jain**
+- GitHub: [@Jain-Moksh](https://github.com/Jain-Moksh)
+- Email: [mokshjaindev@gmail.com](mailto:mokshjaindev@gmail.com)
+
 ## Contributions
 
-Feel free to give me feedback. Furthermore, if you find potential for optimization, I appreciate any feedback!
+Feel free to open issues or submit pull requests. If you find potential for optimization or have any feedback, please reach out!
 
-**Open Source with Attribution**
+## License
 
-You are free to:
+This project is open-source and shared in the spirit of open collaboration and learning. You are free to:
 - Use the code in personal or commercial projects
 - Modify and adapt the code
 - Share and distribute the code
 
-This project is shared in the spirit of open collaboration and learning. Respect for the original work is the only requirement.
+Please provide proper attribution to the author.
 
 
