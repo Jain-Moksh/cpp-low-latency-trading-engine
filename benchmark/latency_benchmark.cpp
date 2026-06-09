@@ -23,6 +23,10 @@
 #include <thread>
 #include <vector>
 
+#ifdef _WIN32
+#include <windows.h>
+#endif
+
 using namespace trading;
 
 // Benchmark parameters
